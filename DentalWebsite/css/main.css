@@ -1,0 +1,193 @@
+/* ----------- Non-Retina Screens ----------- */
+/* ----------- Retina Screens ----------- */
+@media (min-width: 1400px) 
+   { 
+      .navbar .transparent .navbar-expand-lg {
+        border-width: 0px;
+        -webkit-box-shadow: 0px 0px;
+        box-shadow: 0px 0px;
+        background-color: rgba(0,0,0,0.0);
+
+      }
+
+      .navbarTitle {
+          float: right;
+          padding-top: 40px;
+          padding-left: 20px;
+          font-size: 30px;
+          
+      }
+    
+         
+
+      .navbar-brand {
+        padding-left: 10px;
+      }
+      
+      .apple-icon {
+          float: right;
+          margin-top: 30px;
+          margin-left: 30px;
+      }
+    
+       .title-logo {
+           position: relative;
+           right: 1400px;
+           
+       }
+       
+       .background-img {
+           
+           position: absolute;
+           left: -170px;
+           top: -120px;
+           
+           z-index: -2;
+           
+       }
+       
+/*
+       .imgBg {
+           position: relative;
+           clip: rect (0px, 0px, 500px, 0px);
+       }
+*/
+       .bg-img-cover {
+           background-color: rgba(0, 255, 255, 0.);
+           height: 100vh;
+       }
+       
+       .about-us {
+           color: rgba(128, 0, 0, .75);
+           float: right;
+           font-size: 16px;
+           padding-top: 20px;
+           padding-right: 35px;
+       }
+       
+       .about-us:hover {
+           color: white;
+           text-decoration: none;
+       }
+       
+       .our-services {
+           color: rgba(128, 0, 0, .75);
+           float: right;
+           font-size: 16px;
+           padding-top: 20px;
+           padding-right: 35px;
+       }
+       
+       .our-services:hover {
+           color: white;
+           text-decoration: none;
+       }
+       
+       .smile {
+           color: maroon;
+           
+       } 
+       
+       .smile:hover {
+           color:white;
+           text-decoration: none;
+       }
+       
+       .contact-us {
+           color:rgba(128, 0, 0, .75);
+           float: right;
+           font-size: 16px;
+           padding-top: 20px;
+           padding-right: 35px;
+       }
+       
+       .contact-us:hover {
+           color: white;
+           text-decoration: none;
+       }
+       
+       
+       
+       .navLinks {
+           position: relative;
+           left: 250px;
+           font-size: 20px;
+           padding-top: 40px;
+           padding-right: 35px;
+       }
+      
+       .hovered-header {
+           color: white;
+       }
+       
+       .container {
+           width: 500px;
+           height: 400px;
+       }
+       
+       
+       
+       .fresher {
+           width: 1500px;
+           height: 200px;
+       }
+       
+       h1 {
+           position: relative;
+           top: 150px;
+           left: 200px;
+           white-space: nowrap;
+           color: white;
+       }
+       
+       .book-appt {
+           display: block;
+           width: 250px;
+           height: 60px;
+           background: maroon;
+           padding: 15px;
+           padding-left: 20px;
+           padding-right: 20px;
+           padding-bottom: 0px;
+           text-align: center;
+           border-radius: 30px;
+           color: white;
+           white-space: nowrap;
+           text-align: center;
+           position: relative;
+           left: 810px;
+/*
+           position: relative;
+           left: 1000px;
+           padding: 20px;
+           width: 200px;
+           border-color: maroon;
+           border-
+           border-radius: 20px;
+           white-space: nowrap;
+*/
+           
+       }
+       
+       .book-appt:hover {
+           background-color: white;
+           color: #800000 !important;
+           
+       }
+       
+
+       .appt:hover {
+           color: #800000 !important;
+       }
+
+       
+       
+
+}
+.text-success {
+    margin-left: 20px;
+    color: red; 
+
+}
+
+
